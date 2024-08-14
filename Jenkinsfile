@@ -6,7 +6,7 @@ pipline {
     }
 
     environment {
-        SNAP_REPO = 'vprofile-snapshot'
+        SNAP_REPO = 'vprofile-snapshot' 
         NEXUS_USER = 'admin'
         NEXUS_PASS = 'admin123'
         RELEASE_REPO = 'vprofile-release'
