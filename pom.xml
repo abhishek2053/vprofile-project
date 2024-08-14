@@ -211,7 +211,7 @@
 	<repositories>
     <repository>
       <id>${NEXUS-GRP-REPO}</id>
-      <url>http://100.24.8.74:8081/repository/vpro-maven-group/</url>
+      <url>http://172.31.25.109:8081/repository/vpro-maven-group/</url>
     </repository>
   </repositories>
 </project>
